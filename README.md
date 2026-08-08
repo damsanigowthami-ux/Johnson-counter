@@ -50,4 +50,3 @@ gtkwave waveform.vcd
 ## Author
 Gowthami.D
 
-Your Name
