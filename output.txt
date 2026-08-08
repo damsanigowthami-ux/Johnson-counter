@@ -1,0 +1,9 @@
+Time=0   Counter=0000
+Time=10  Counter=0001
+Time=20  Counter=0011
+Time=30  Counter=0111
+Time=40  Counter=1111
+Time=50  Counter=1110
+Time=60  Counter=1100
+Time=70  Counter=1000
+Time=80  Counter=0000
